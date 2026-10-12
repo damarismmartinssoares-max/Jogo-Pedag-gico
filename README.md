@@ -1,2 +1,2 @@
-# Jogo-Pedag-gico
+# Jogo-Pedagógico
 Guia de funções
